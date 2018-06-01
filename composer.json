@@ -1,7 +1,7 @@
 {
-    "name": "ideagital/shoppingcart",
+    "name": "ideagital/laravel-shoppingcart",
     "description": "Laravel Shoppingcart improved version from Rob Gloudemans",
-    "keywords": ["laravel", "shoppingcart"],
+    "keywords": ["ideagital", "laravel shoppingcart"],
     "license": "MIT",
     "authors": [
         {
