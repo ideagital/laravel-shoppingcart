@@ -1,6 +1,6 @@
 <?php
 
-namespace Gloudemans\Tests\Shoppingcart;
+namespace Ideagital\Tests\Shoppingcart;
 
 use Orchestra\Testbench\TestCase;
 use Gloudemans\Shoppingcart\CartItem;
