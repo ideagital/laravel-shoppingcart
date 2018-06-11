@@ -1,6 +1,6 @@
 <?php
 
-namespace Gloudemans\Tests\Shoppingcart;
+namespace Ideagital\Tests\Shoppingcart;
 
 use Gloudemans\Shoppingcart\Cart;
 use PHPUnit\Framework\Assert as PHPUnit;
